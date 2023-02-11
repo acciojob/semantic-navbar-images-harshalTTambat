@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	
+}
+li{
+	float: left;
+	border-right: 1px solid;
+}
+a{
+	display: block;
+	padding: 0 28px
+}
